@@ -50,6 +50,8 @@ img {
   margin: 0 auto;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .section {
@@ -69,8 +71,8 @@ img {
 
 .head {
   display: flex;
-  padding-left: 15px;
-  padding-right: 15x;
+  /*padding-left: 15px;
+  padding-right: 15x;*/
 }
 
 header .container {
@@ -240,7 +242,7 @@ header .container {
 
 .offer-item {
   width: calc((100% - 72px) / 4);
-  max-width: 264px;
+  /*max-width: 264px;*/
 }
 .offer-header {
   margin-bottom: 8px;
@@ -270,7 +272,7 @@ header .container {
 .team-mmbr {
   background-color: #ffffff;
   width: calc((100% - 72px) / 4);
-  max-width: 264px;
+  /*max-width: 264px;*/
   padding: 0 0 0 0;
   border-radius: 0px 0px 4px 4px;
 }
